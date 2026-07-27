@@ -77,7 +77,7 @@
     "events": {
       "connect": false,
       "disconnect": false,
-      "chat": truee
+      "chat": true
     }
   },
   "chat": {
