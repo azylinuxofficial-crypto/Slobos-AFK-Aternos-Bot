@@ -14,7 +14,7 @@
   "position": {
     "enabled": true,
     "x": 0,
-    "y": 100,
+    "y": 0,
     "z": 0
   },
   "utils": {
@@ -31,8 +31,6 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "I like to play Minecraft!"
       ]
     },
     "chat-log": true,
