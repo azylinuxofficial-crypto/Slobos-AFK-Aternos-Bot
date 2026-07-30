@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "GameverseLOL.aternos.me",
-    "port": 50412,
+    "ip": "gameverselol.play.hosting",
+    "port": 10861,
     "version": "",
     "try-creative": false
   },
